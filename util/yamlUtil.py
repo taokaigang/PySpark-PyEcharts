@@ -1,5 +1,3 @@
-# pip install yaml
-
 import yaml
 
 

@@ -10,6 +10,7 @@ postgresql
 数据处理（ETL）：
 pyspark
 spark sql
+也涉及到一些DataFrame、Pandas、numpy
 
 
 数据可视化：
