@@ -1,0 +1,5 @@
+# 示例
+logger:
+  file: WebAutotest.log
+  loggerleve: INFO
+  name: WebAutotest
